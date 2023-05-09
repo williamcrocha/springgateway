@@ -1,3 +1,4 @@
+![Spring Cloud Gateway](./assets/SpringCloud.png)
 # Spring Cloud Gateway
 
 This simple example shows how to configure routes using the programatic way (RoutesConfig.java) and using application.yml
