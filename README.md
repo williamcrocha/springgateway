@@ -14,4 +14,3 @@ This simple example shows how to configure routes using the programatic way (Rou
 For further reference, please consider the following sections:
 
 * [Spring Cloud Gateway](https://docs.spring.io/spring-cloud-gateway/docs/current/reference/html/)
-
