@@ -1,0 +1,12 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    gateway:
+      routes:
+      -  id: example_org
+         uri: https://example.org
+         predicates:
+         -  Path=/echo
+
